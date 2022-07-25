@@ -12,6 +12,8 @@ public class TestngExampleTest2 {
 		public void practice2Test() {
 		
 			Reporter.log("TYSS--->test4",true);
+			Reporter.log("hiiiiiii");
+			
 		}
 
 }
